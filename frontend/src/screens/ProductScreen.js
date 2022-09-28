@@ -7,7 +7,7 @@ function ProductScreen() {
     <div>
      
       <h1>{slug}</h1>
-      <p>Your item</p>
+      
     </div>
   );
 }
